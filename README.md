@@ -2,7 +2,7 @@
 
 A full-stack **Notice Board** web application with CRUD operations, built with **Next.js Pages Router**, **Prisma ORM**, **Neon PostgreSQL**, and **Tailwind CSS**. Deployed on **Vercel**.
 
-🔗 **Live demo**: _[Add your Vercel URL here after deployment]_
+🔗 **Live demo**: https://notice-board-pi-ten.vercel.app/
 
 ---
 
